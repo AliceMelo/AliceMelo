@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning HTML, CSS e JavaScript.
+- ![Snake animation](https://github.com/AliceMelo/AliceMelo/blob/output/github-contribution-grid-snake.svg)
 
 
