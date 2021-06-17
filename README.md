@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👩‍🎓 Graduada em Ciência da Computação. 
 - 🌱 I’m currently learning HTML, CSS e JavaScript.
 
  <div>
