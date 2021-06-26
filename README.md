@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+- 🔭 Buscando primeira oportunidade como Desenvolvedora Web Front-End. 
 - 👩‍🎓 Graduada em Ciência da Computação. 
-- 🌱 I’m currently learning HTML, CSS e JavaScript.
+- 🌱 Tenho conhecimento em HTML, CSS e JavaScript.
 
  <div>
   <a href="https://github.com/AliceMelo">
